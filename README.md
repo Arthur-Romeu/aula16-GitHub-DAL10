@@ -2,3 +2,4 @@
 Aula teste sobre o GitHub
 
 # 📋 Sobre
+Utilização teste de emojis do GitHUb
